@@ -2,9 +2,9 @@
 
 ![Crowded Restaurant](https://goo.gl/images/hz6oYv)
 
-A single restaurant can service hundreds of people every day... even _every hour_!
+A single restaurant can service hundreds of people every day... even **_every hour_**!
 
-###Things I care about most in a restaurant are:
+### Things I care about most in a restaurant are:
 
 1. Quality - Do I enjoy the food and drink?    
 2. Speed - How fast can I get the things I want?    
