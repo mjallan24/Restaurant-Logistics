@@ -4,6 +4,7 @@
 
 A single restaurant can service hundreds of people every day... even _every hour_!
 
+
 ####Things I care about most in a restaurant are:
 
 1. Quality - Do I enjoy the food and drink?    
