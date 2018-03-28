@@ -1,6 +1,6 @@
 # Restaurant Logistics
 
-![Crowded Restaurant](https://goo.gl/images/hz6oYv)
+![Crowded Restaurant](restaurant.jpeg)
 
 A single restaurant can service hundreds of people every day... even **_every hour_**!
 
